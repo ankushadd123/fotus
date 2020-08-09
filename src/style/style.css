@@ -1,0 +1,21 @@
+.form-custom {
+    margin-top: 5%;
+    margin-bottom: 8%;
+    margin-left: 24%;
+    margin-right: 24%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 12%;
+    padding-bottom: 12%;
+    background-color: ghostwhite;
+}
+
+.row-custom {
+    text-align: center;
+}
+
+.picture {
+    border-radius: 25%;
+    height: 275px;
+    width: 440px
+}

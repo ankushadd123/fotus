@@ -1,0 +1,31 @@
+{
+	"posts": [{
+		"id": 1,
+		"title": "dany",
+		"images": [
+			"https://www.incimages.com/uploaded_files/image/1920x1080/daenerysT_254466.jpg",
+			"https://www.elizajayblogs.com/wp-content/uploads/2019/10/daenerys-targaryen-game-of-thrones-wallpaper.jpg",
+			"https://www.geekgirlauthority.com/wp-content/uploads/2019/04/daenerys-targaryen-goes-to-westeros-in-game-of-thrones-season-7.jpg",
+			"https://pbs.twimg.com/media/EUi7aSZXYAE_kwL.jpg"
+		]
+	}, {
+		"id": 2,
+		"title": "friends",
+		"images": [
+			"https://images-na.ssl-images-amazon.com/images/G/01/digital/video/hero/TVSeries/Friends_4926700-FRIENDS._V392939166_SX1080_.jpg",
+			"https://vignette.wikia.nocookie.net/friends/images/b/ba/Friends_TV_series.jpeg/revision/latest?cb=20180430013933"
+		]
+	}, {
+		"id": 3,
+		"title": "elite",
+		"images": [
+			"https://images.cinemaexpress.com/uploads/user/imagelibrary/2020/5/23/original/elite-lede-1.jpg",
+			"https://pmctvline2.files.wordpress.com/2020/02/elite-season-3-premiere-recap.jpg?w=619",
+			"https://em.wattpad.com/46fe174b481101be2f5c584179b956f25724fa5e/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f477431334b576f386d35624665773d3d2d3636393133393931362e313537323333643737666334333763363833313134353239303937332e676966",
+			"https://pineapplepakistan.com/wp-content/uploads/2020/04/Maria-Pedraza-1024x719.jpg"
+		]
+	}],
+	"profile": {
+		"name": "typicode"
+	}
+}
